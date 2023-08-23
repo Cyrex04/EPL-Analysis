@@ -1,6 +1,3 @@
-Absolutely, let's use more emojis and keep the entire README file in Markdown:
-
-```markdown
 # English Premier League Analysis 🏴󠁧󠁢󠁥󠁮󠁧󠁿⚽
 
 Welcome to the English Premier League Analysis repository! This project focuses on analyzing data from the last 20 years of the EPL. it delves into top teams, relegation, average points, and more. 📊⚽
@@ -66,4 +63,3 @@ Nothing special , i only stole a data set from kaggel.
 For questions or inquiries, please email me at yousufdiaa2004@gmail.com
 
 Dive in and embark on this exciting journey of analysis! 🌟⚽🔍
-```
